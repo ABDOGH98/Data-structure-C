@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "cmath": "c",
+        "string.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
